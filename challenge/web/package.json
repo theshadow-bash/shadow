@@ -1,0 +1,8 @@
+{
+  "name": "@mesh/node-web",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "build": "node -e \"0\""
+  }
+}
